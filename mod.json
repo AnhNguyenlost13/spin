@@ -8,16 +8,16 @@
 	},
 	"id": "catgirldev.speen",
 	"name": "speeen",
-	"version": "v1.0.0gi",
+	"version": "v1.0.0",
 	"developer": "catgirldev",
 	"description": "Rotates the screen when gravity changes!",
 	"tags": ["joke","gameplay"],
 	"links": {
-		"source": "https://github.com/AnhNguyenlost13/camera-washer",
+		"source": "https://github.com/AnhNguyenlost13/spin",
 		"community": "https://discord.gg/uFj8SSUhRa"
 	  },
 	  "issues": {
 		"info": "Please report any problems or suggestions you have to this mod's GitHub repository by making an issue!",
-		"url": "https://github.com/AnhNguyenlost13/camera-washer/issues"
+		"url": "https://github.com/AnhNguyenlost13/sppin/issues"
 	  }
 }
